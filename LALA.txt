@@ -1,3 +1,7 @@
 version2
 fix2
+<<<<<<< HEAD
 neww fix
+=======
+new fix
+>>>>>>> f5ad3b203dc0e1fe6585ec1659dc7988c0196b98
