@@ -1,6 +1,2 @@
 version2
-<<<<<<< HEAD
 fix2
-=======
-fix1
->>>>>>> 77fd4cc76eec020fdb08e4dbe02fef49e33722d4
